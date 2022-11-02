@@ -18,7 +18,7 @@ Olá! Eu sou o Matheus Neris <img src="https://media.giphy.com/media/12oufCB0MyZ
 <div align="center">
   <a href="https://github.com/MatheusNerisXa/MatheusNerisXa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnerisxavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnerisxavier&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNerisXa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div>  
