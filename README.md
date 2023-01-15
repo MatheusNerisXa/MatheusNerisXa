@@ -15,12 +15,11 @@ Olá! Eu sou o Matheus Neris <img src="https://media.giphy.com/media/12oufCB0MyZ
 
 - Atualmente estas são as tecnologias que mais conheço:
 
-<div align="center">
-  <a href="https://github.com/MatheusNerisXa/MatheusNerisXa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusNerisXa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNerisXa&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
+<div align="center">
+  <a href="https://github.com/MatheusNerisXa">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusNerisXa&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNerisXa&layout=compact&langs_count=7&theme=codeSTACKr"/>
  <div>  
   <img align="center" alt="Rafa-Js" height="55" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
